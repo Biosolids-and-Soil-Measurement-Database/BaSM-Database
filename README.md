@@ -1,6 +1,6 @@
 # Biosolids and Soil Measurements (BaSM) Database
 
-This repository is for the development and release of BSMDb data files and tools. The database will be periodically updated with data sets and source code.
+This repository is for the development and release of the BaSM Database data files and tools. The database will be periodically updated with data sets and source code.
 
 Last data update: 17 July 2020
 
@@ -25,7 +25,7 @@ To make this a dynamic and community-oriented database, we need the help of you!
 
 ### Data
 
-This folder contains all the data currently in BSMDb. There is a <biosolids-master-file.csv file> containing all metadata from gathered sources. A list of the studies currently in BSMDb \<(studies_list.csv)>, as well as a guide for entering new data (Readme.md), an annotated blank template file <(template_metadata.csv)>, and a blank <initConditions.csv> file are located in this folder.
+This folder contains all the data currently in BaSM Database. There is a <biosolids-master-file.csv file> containing all metadata from gathered sources. A list of the studies currently in BaSM Database \<(studies_list.csv)>, as well as a guide for entering new data (Readme.md), an annotated blank template file <(template_metadata.csv)>, and a blank <initConditions.csv> file are located in this folder.
 
 ### Scripts
 
@@ -33,4 +33,4 @@ This folder contains R coded to analyze and visualize the current data.
 
 ### Website
 
-This folder contains files to generate the BSMDb website.
+This folder contains files to generate the BaSM Database website.
