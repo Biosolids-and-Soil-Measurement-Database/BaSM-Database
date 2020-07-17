@@ -25,7 +25,7 @@ To make this a dynamic and community-oriented database, we need the help of you!
 
 ### Data
 
-This folder contains all the data currently in BaSM Database. There is a <biosolids-master-file.csv file> containing all metadata from gathered sources. A list of the studies currently in BaSM Database \<(studies_list.csv)>, as well as a guide for entering new data (Readme.md), an annotated blank template file <(template_metadata.csv)>, and a blank <initConditions.csv> file are located in this folder.
+This folder contains all the data currently in BaSM Database. There is a `biosolids-master-file.csv file` containing all metadata from gathered sources. A list of the studies currently in BaSM Database `(studies_list.csv)`, as well as a guide for entering new data (Readme.md), an annotated blank template file `(template_metadata.csv)`, and a blank `initConditions.csv` file are located in this folder.
 
 ### Scripts
 
