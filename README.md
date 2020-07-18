@@ -25,12 +25,12 @@ To make this a dynamic and community-oriented database, we need the help of you!
 
 ### Data
 
-This folder contains all the data currently in BaSM Database. There is a `biosolids-master-file.csv file` containing all metadata from gathered sources. A list of the studies currently in BaSM Database [`(studies_list.csv)`](https://github.com/Biosolids-and-Soil-Measurement-Database/BaSM-Database/blob/master/data/studies_list), as well as a guide for entering new data (Readme.md), an annotated blank template file [`(template_metadata.csv)`](https://github.com/Biosolids-and-Soil-Measurement-Database/BaSM-Database/blob/master/data/metadata_contribution_template), and a blank `initConditions.csv` file are located in this folder.
+This folder contains all the data currently in BaSM Database. There is a `biosolids-master-file.csv file` containing all metadata from gathered sources. A list of the studies currently in BaSM Database [`(studies_list.csv)`](https://github.com/Biosolids-and-Soil-Measurement-Database/BaSM-Database/blob/master/data/studies_list), as well as a guide for entering new data (Readme.md), and an annotated blank template file [`(template_metadata.csv)`](https://github.com/Biosolids-and-Soil-Measurement-Database/BaSM-Database/blob/master/data/metadata_contribution_template) are located in this folder.
 
 ### Scripts
 
-This folder contains R coded to analyze and visualize the current data.
+This folder contains R [scripts](https://github.com/Biosolids-and-Soil-Measurement-Database/BaSM-Database/tree/master/scripts) coded to analyze and visualize the current data.
 
 ### Website
 
-This folder contains files to generate the BaSM Database website.
+This folder contains files to generate the BaSM Database [website](https://github.com/Biosolids-and-Soil-Measurement-Database/BaSM-Database/tree/master/website).
