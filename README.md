@@ -19,7 +19,7 @@ To make this a dynamic and community-oriented database, we need the help of you!
 
 2. If you're not comfortable with git/github, use the [Excel](https://github.com/Biosolids-and-Soil-Measurement-Database/BaSM-Database/blob/master/data/metadata_contribution_template) document provided for data entry and then email the file back to the project administrator `(Mike Badzmierowski, PhD)` mikejb7@vt.edu.
 
-3. If you would like to assist with the development of a website and public materials please email mikejb7@vt.edu
+3. If you would like to assist with the development of the website and public materials please email mikejb7@vt.edu
 
 # Structure of repository
 
